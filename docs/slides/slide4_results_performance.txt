@@ -1,0 +1,15 @@
+Slide 4: System Performance & Visualization
+
+1. System Performance
+• Grid Resolution: 0.1m (10cm)
+• Sampling Points: 200x120 grid (24,000 points)
+• Coverage Area: 50m x 30m (1,500 m²)
+• Signal Range: Typically -30 dBm to -90 dBm
+
+2. Visualization Improvements
+• AP Marker Size: 3000-4000 units
+• High-Resolution Output: 600 DPI
+• Material Overlay: 0.5 alpha transparency
+• Support for Multiple APs (up to 4)
+  - Channel Separation: 5 channels
+  - Realistic Noise: σ = 2 dB

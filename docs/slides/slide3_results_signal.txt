@@ -1,0 +1,14 @@
+Slide 3: Signal Characteristics
+
+1. Signal Properties
+• Operating Frequency: 2.4 GHz
+• Transmit Power: 20 dBm
+• Noise Floor: -96.0 dBm
+• Signal Quality Range: 0-1 (normalized from RSSI)
+
+2. Material Attenuation (2.4 GHz)
+• Concrete (20cm): 4.5 εr, 0.014 S/m conductivity
+• Glass (6mm): 6.0 εr, 0.004 S/m conductivity
+• Wood (4cm): 2.1 εr, 0.002 S/m conductivity
+• Drywall (16mm): 2.0 εr, 0.001 S/m conductivity
+• Metal (2mm): 1.0 εr, 1e7 S/m conductivity

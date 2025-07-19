@@ -1,0 +1,1 @@
+"""Physics calculations package."""

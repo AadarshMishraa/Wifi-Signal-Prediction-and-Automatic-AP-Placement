@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+data/
+visualizations/
+results/
+.changes/
+*.csv
+*.joblib
+*.png
+!floor_plans/*.png  # Keep floor plan images
+
+# Generated files
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Runs directory handling - exclude all runs except run_last
+runs/run_*/
+!runs/run_last/
+!runs/run_last/data/
+!runs/run_last/plots/
+!runs/run_last/**/*.png
+!runs/run_last/**/*.csv
+
+# Models directory - exclude generated model files
+models/*
+!models/__init__.py
+!src/models/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+node_modules

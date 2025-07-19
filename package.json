@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.2.0",
+    "@mui/material": "^7.2.0",
+    "axios": "^1.10.0",
+    "file-saver": "^2.0.5",
+    "formik": "^2.4.6",
+    "konva": "^9.3.22",
+    "react-konva": "^19.0.7",
+    "tqdm": "^2.0.3",
+    "yup": "^1.6.1"
+  }
+}
