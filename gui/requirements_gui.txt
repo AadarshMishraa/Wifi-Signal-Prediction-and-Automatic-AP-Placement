@@ -1,0 +1,41 @@
+# GUI Requirements for WiFi AP Placement Designer
+# Install with: pip install -r requirements_gui.txt
+
+# Core GUI framework
+tkinter  # Usually comes with Python
+
+# Scientific computing and visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+
+# Enhanced plotting capabilities
+seaborn>=0.11.0
+
+# Data handling
+pandas>=1.3.0
+
+# Optional: For advanced 3D visualization
+# plotly>=5.0.0
+# dash>=2.0.0
+
+# Optional: For web-based GUI (alternative implementation)
+# flask>=2.0.0
+# flask-socketio>=5.0.0
+
+# Image processing (for floor plan import)
+Pillow>=8.0.0
+
+# JSON handling (built-in with Python)
+# json
+
+# File operations
+pathlib  # Built-in with Python 3.4+
+
+# Optional: For machine learning integration
+# scikit-learn>=1.0.0
+# tensorflow>=2.6.0
+
+# Development and testing
+# pytest>=6.0.0
+# pytest-gui>=0.3.0

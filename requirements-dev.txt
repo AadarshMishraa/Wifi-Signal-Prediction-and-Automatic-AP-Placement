@@ -1,0 +1,30 @@
+# Development Dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0  # Parallel test execution
+
+# Code Quality
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Linting
+pylint>=2.17.0  # Advanced linting
+mypy>=1.0.0  # Type checking
+
+# Documentation
+sphinx>=6.0.0  # Documentation generation
+sphinx-rtd-theme>=1.2.0  # ReadTheDocs theme
+
+# Development Tools
+ipython>=8.0.0  # Enhanced Python shell
+jupyter>=1.0.0  # Jupyter notebooks
+ipdb>=0.13.0  # Debugging
+
+# Performance Profiling
+memory-profiler>=0.60.0
+line-profiler>=4.0.0
+
+# Optional: Advanced ML
+xgboost>=1.7.0
+lightgbm>=3.3.0
